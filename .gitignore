@@ -1,0 +1,8 @@
+/.gradle
+/.idea
+/out
+/build
+/test
+
+# Default ignored files
+/Client On Ktor.iws
